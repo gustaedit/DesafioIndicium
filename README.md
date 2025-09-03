@@ -6,6 +6,8 @@ Este projeto foi desenvolvido como a minha submissão para o desafio de Cientist
 
 O trabalho abrange desde a limpeza e análise exploratória dos dados até a construção de um modelo de Machine Learning para prever a nota de um filme no IMDB.
 
+Link para o jupter notebook https://colab.research.google.com/drive/1l1wxIoaqe0nVYLjN9dMTl43Gl2oWzwqw?usp=sharing
+
 ## 2. Estrutura do Repositório
 
 -   `desafio_indicium_imdb.csv`: O conjunto de dados original.
