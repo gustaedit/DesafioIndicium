@@ -1,4 +1,3 @@
-# Desafio Indicium
 # Desafio Cientista de Dados: Análise Preditiva de Filmes do IMDB
 
 ## 1. Visão Geral do Projeto
