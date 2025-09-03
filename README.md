@@ -31,7 +31,7 @@ O trabalho abrange desde a limpeza e análise exploratória dos dados até a con
 2.  **Criar e ativar um ambiente virtual (recomendado):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
+    source venv/bin/activate  
     ```
 
 3.  **Instalar as dependências:**
