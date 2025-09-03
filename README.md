@@ -19,36 +19,8 @@ O trabalho abrange desde a limpeza e análise exploratória dos dados até a con
 ### Pré-requisitos
 
 -   Python 3.7+
-
-### Passos para Execução
-
-1.  **Clonar o repositório:**
-    ```bash
-    git clone <URL-DO-REPOSITORIO>
-    cd <NOME-DO-REPOSITORIO>
-    ```
-
-2.  **Criar e ativar um ambiente virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  
-    ```
-
-3.  **Instalar as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Executar o script principal:**
-    ```bash
-    python analise_filmes.py
-    ```
-
-    Após a execução, os resultados serão impressos no terminal, e os arquivos de imagem (gráficos) e o modelo (`.pkl`) serão salvos no diretório.
-
+  
 ## 4. Análises e Respostas
-
-As respostas detalhadas para as perguntas do desafio estão documentadas no relatório principal (Jupyter Notebook ou PDF), mas um resumo das minhas conclusões está abaixo.
 
 ### Análise Exploratória (EDA)
 
